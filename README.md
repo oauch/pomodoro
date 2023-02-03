@@ -1,16 +1,13 @@
-# pomodoro
+# Flutter pomodoro App
+</br>
+</br>
 
-A new Flutter project.
+### 구현한 기능 </br>
+📍 타이머 시작 / 정지 </br>
+📍 타이머 리셋 </br></br>
 
-## Getting Started
+### 설명
+📍 특별하게 추가한게 없어서 간단히 설명하면 카운터 앱이라고 해도 된다 </br></br>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 실행 화면 </br>
+![image](https://user-images.githubusercontent.com/49686619/216530591-4c5eb18d-5f7e-49a9-95f9-53b838e9a2d0.png)
