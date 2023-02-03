@@ -1,7 +1,4 @@
 # Flutter pomodoro App
-</br>
-</br>
-
 ### 구현한 기능 </br>
 📍 타이머 시작 / 정지 </br>
 📍 타이머 리셋 </br></br>
